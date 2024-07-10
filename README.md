@@ -25,7 +25,7 @@ This repository contains resources and code for learning and implementing guardr
 To get started with this repository, clone it to your local machine:
 
 ```bash
-git clone https://github.com/Tahiralira/llm-guardrails.git
+git clone https://github.com/m-a-r-i-b/llm-guardrails.git
 ```
 Navigate to the repository directory:
 ```bash
